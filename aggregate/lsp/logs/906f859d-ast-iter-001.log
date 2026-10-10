@@ -1,0 +1,7 @@
+[2026-10-10T07:45:29Z] === AST ITERATION 1 START | repo=shadcn-ui/registry-template sha=906f859d ===
+[2026-10-10T07:45:29Z] [iter=1] PHASE START: ast repo=shadcn-ui/registry-template sha=906f859d
+[2026-10-10T07:45:29Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T07:45:32Z] [iter=1] AST chunks built count=1 triples=20620
+[2026-10-10T07:45:32Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/906f859db0125965cba71c51da1707c0a4c6d045/.complete
+[2026-10-10T07:45:32Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-10T07:45:32Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
